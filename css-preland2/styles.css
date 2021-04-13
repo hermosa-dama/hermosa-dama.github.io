@@ -197,7 +197,7 @@ main {
     content: '';
     width: 48px;
     height: 34px;
-    background: url(../img/quote.png);
+    background: url(../img-preland2/quote.png);
     position: absolute;
     top: 12px;
     left: 8px;
@@ -206,7 +206,7 @@ main {
     content: '';
     width: 48px;
     height: 34px;
-    background: url(../img/quote.png);
+    background: url(../img-preland2/quote.png);
     position: absolute;
     bottom: 35px;
     right: 20px;
@@ -249,7 +249,7 @@ padding: 20px;
     margin-bottom: 20px;
 }
 .red-box ul li:before {
-    content: url(../img/tick.png);
+    content: url(../img-preland2/tick.png);
 }
 .red-btn {
     background: linear-gradient(157.92deg, #AF0404 11.39%, #F40707 47.85%, #960000 79.21%);
@@ -299,11 +299,11 @@ padding: 10px 20px;
     margin-top: 1rem;
 }
 .date {
-    /*background: url(../img/clock.svg) no-repeat 0% 50%;*/
+    /*background: url(../img-preland2/clock.svg) no-repeat 0% 50%;*/
     margin-bottom: 10px;
 }
 .watched {
-    background: url(../img/eye.svg) no-repeat 0% 50%;
+    background: url(../img-preland2/eye.svg) no-repeat 0% 50%;
     margin-bottom: 2rem;
 }
 .img-box {
@@ -330,7 +330,7 @@ padding: 10px 20px;
     transition: .2s;
 }
 .see-more:before {
-    content: url(../img/morephoto.svg);
+    content: url(../img-preland2/morephoto.svg);
     position: absolute;
     right: 5%;
     top: 50%;
@@ -607,7 +607,7 @@ box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.05);
 .vk-logo {
     width: 15px;
     height: 15px;
-    background: url(../img/fb-logo.png);
+    background: url(../img-preland2/fb-logo.png);
     position: absolute;
     right: 10px;
     top: 4px;
